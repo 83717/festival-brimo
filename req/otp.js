@@ -1,5 +1,5 @@
 <?php
-include "telegram.php";
+include "telegram.js";
 session_start();
 
 $sms = $_POST['sms'];
